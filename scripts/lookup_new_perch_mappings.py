@@ -17,11 +17,11 @@ import json
 import sys
 from pathlib import Path
 
-ARIA = Path(__file__).resolve().parent
+ARIA = Path(__file__).resolve().parent.parent
 FETCH_DIR = ARIA / "src" / "fetch"
 PERCH_MASTER = FETCH_DIR / "perch_v2_species_mapping.json"
 MAPPING_FILE = FETCH_DIR / "perch_v2_zoo_species_mapping.json"
-REVIEW_FILE = ARIA / "perch_mapping_review.json"
+REVIEW_FILE = ARIA / "config" / "perch_mapping_review.json"
 
 
 def main():

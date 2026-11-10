@@ -16,7 +16,7 @@ if [ "$#" -eq 0 ]; then
 fi
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-MERGE_SCRIPT="$SCRIPT_DIR/src/inference/merge_model_predictions.py"
+MERGE_SCRIPT="$SCRIPT_DIR/../src/inference/merge_model_predictions.py"
 
 echo "############################################################"
 echo "# STEP 1: BirdNET + PERCH/Fusion (per dataset)"

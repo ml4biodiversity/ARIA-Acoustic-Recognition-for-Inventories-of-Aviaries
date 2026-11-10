@@ -11,7 +11,7 @@ if [ "$#" -eq 0 ]; then
   exit 1
 fi
 
-ARIA_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ARIA_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 RESULTS_ROOT="$ARIA_ROOT/results_inference_birdnet"
 RESULTS_DIR="$ARIA_ROOT/results"
 PREPROCESSED_ROOT="${PREPROCESSED_ROOT:-/home/zoodata/preprocessed}"

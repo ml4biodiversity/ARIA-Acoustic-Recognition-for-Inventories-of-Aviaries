@@ -40,7 +40,7 @@ import sys
 import time
 from pathlib import Path
 
-ARIA = Path(__file__).resolve().parent
+ARIA = Path(__file__).resolve().parent.parent
 EXTRACT = ARIA / 'src' / 'segment' / 'extract_embeddings_better_working.py'
 
 
@@ -257,7 +257,7 @@ def main():
     if missing:
         print(f'[WARN] no output file for shards {missing} (nothing extracted?) - check logs')
         sys.exit(1)
-    print(f'All shards OK. Next:\n  python3 merge_shards.py {out} -o <merged.npy> --labels models/ZooCustom_v1_Labels.txt')
+    print(f'All shards OK. Next:\n  python3 scripts/merge_shards.py {out} -o <merged.npy> --labels models/ZooCustom_v1_Labels.txt')
 
 
 if __name__ == '__main__':

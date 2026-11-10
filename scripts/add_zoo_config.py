@@ -34,7 +34,7 @@ import argparse, json, shutil, sys
 from datetime import datetime
 from pathlib import Path
 
-ARIA = Path(__file__).resolve().parent   # script lives in the ARIA folder
+ARIA = Path(__file__).resolve().parent.parent   # scripts/ is inside the ARIA folder
 
 
 def backup(p: Path):

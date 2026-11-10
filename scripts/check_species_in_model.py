@@ -15,7 +15,7 @@ Usage:
 import argparse, json, os, sys
 from pathlib import Path
 
-ARIA = Path(__file__).resolve().parent   # script lives in the ARIA folder
+ARIA = Path(__file__).resolve().parent.parent   # scripts/ is inside the ARIA folder
 sys.path.insert(0, str(ARIA / 'src' / 'inference'))
 from run_inference import parse_folder_name, get_cage_birds, load_zoo_config, DEFAULT_CONFIG_JSON
 

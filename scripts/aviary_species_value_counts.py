@@ -19,7 +19,7 @@ import pandas as pd
 import sys
 
 import os as _os
-ARIA = Path(__file__).resolve().parent
+ARIA = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ARIA / 'src' / 'inference'))
 from run_inference import parse_folder_name, load_zoo_config, DEFAULT_CONFIG_JSON
 

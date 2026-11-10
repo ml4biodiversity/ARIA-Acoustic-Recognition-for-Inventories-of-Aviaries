@@ -20,9 +20,9 @@ import json
 import sys
 from pathlib import Path
 
-FETCH_DIR = Path(__file__).resolve().parent / "src" / "fetch"
+FETCH_DIR = Path(__file__).resolve().parent.parent / "src" / "fetch"
 MAPPING_FILE = FETCH_DIR / "perch_v2_zoo_species_mapping.json"
-REVIEW_FILE = Path(__file__).resolve().parent / "perch_mapping_review.json"
+REVIEW_FILE = Path(__file__).resolve().parent.parent / "config" / "perch_mapping_review.json"
 
 
 def main():

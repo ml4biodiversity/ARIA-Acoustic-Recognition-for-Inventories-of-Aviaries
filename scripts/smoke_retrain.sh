@@ -5,7 +5,7 @@
 #   bash smoke_retrain.sh "Cockatiel" "Mandarin Duck" ...  # your own species (common names)
 # Env: N=80 clips per species, EPOCHS=3, OUT=~/smoke_train
 set -Eeuo pipefail
-ARIA="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ARIA="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 N="${N:-80}"; EPOCHS="${EPOCHS:-3}"; OUT="${OUT:-$HOME/smoke_train}"
 [ "$#" -gt 0 ] && SPECIES=("$@") || SPECIES=("Cockatiel" "Mandarin Duck" "Rose-ringed Parakeet" "Red-billed Blue-Magpie")
 [ -e "$OUT" ] && { echo "[ABORT] $OUT exists - delete it first (rm -rf $OUT)"; exit 1; }

@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+cd "$(dirname "${BASH_SOURCE[0]}")/.."   # run from the ARIA root
 
 echo "========================================="
 echo "  ARIA Dependency Check (Unified Env)"
@@ -58,7 +59,7 @@ done
 # PERCH-specific packages
 echo ""
 echo "PERCH Dependencies:"
-for pkg in kagglehub tensorflow_hub; do
+for pkg in kagglehub tensorflow_hub perch_hoplite; do
     if python3 -c "import $pkg" 2>/dev/null; then
         ver=$(python3 -c "import $pkg; print(getattr($pkg, '__version__', '?'))" 2>/dev/null)
         echo "✅ $pkg ($ver)"
