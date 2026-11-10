@@ -1,0 +1,50 @@
+Anser cygnoides_Swan Goose
+Ardea goliath_Goliath Heron
+Aythya baeri_Baer's Pochard
+Balearica pavonina_Black Crowned Crane
+Branta ruficollis_Red-breasted Goose
+Burhinus oedicnemus_Stone Curlew
+Ciconia abdimii_Abdim's Stork
+Eudocimus ruber_Scarlet Ibis
+Gallicolumba crinigera_Mindanao Bleeding-heart Dove
+Geronticus calvus_Southern Bald Ibis
+Gyps rueppelli_Rüppell's Vulture
+Kittacincla malabarica_White-rumped Shama
+Leucopsar rothschildi_Bali Starling
+Marmaronetta angustirostris_Marbled Teal
+Mergus squamatus_Scaly-sided Merganser
+Neophron percnopterus_Egyptian Vulture
+Oxyura leucocephala_White-headed Duck
+Pelecanus rufescens_Pink-backed Pelican
+Platalea alba_African Spoonbill
+Sagittarius serpentarius_Secretarybird
+Sarkidiornis melanotos_Knob-billed Duck
+Sibirionetta formosa_Baikal Teal
+Tauraco erythrolophus_Red-crested Turaco
+Tauraco violaceus_Violet Turaco
+Threskiornis aethiopicus_Sacred Ibis
+Threskiornis spinicollis_Straw-necked Ibis
+Columba palumbus_Common Wood Pigeon
+Fringilla coelebs_Eurasian Chaffinch
+Streptopelia decaocto_Eurasian Collared Dove
+Turdus merula_Common Blackbird
+Columba arquatrix_African Olive Pigeon
+Lamprotornis albicapillus_White-crowned Starling
+Mergus merganser_Goosander
+Porphyrio madagascariensis_African Purple Swamphen
+Pycnonotus tricolor_Dark-capped Bulbul
+Ploceus castaneiceps_Taveta Golden Weaver
+Acryllium vulturinum_Vulturine Guineafowl
+Afropapo congensis_Congo peafowl
+Ardeola idae_Madagascar pond heron
+Necrosyrtes monachus_Hooded vulture
+Trigonoceps occipitalis_White-headed vulture
+Mycteria ibis_Yellow-billed stork
+Gypaetus barbatus_Bearded vulture
+Trichoglossus forsteni_Scarlet-breasted Lorikeet
+Nesoenas picturatus_Madagascar Turtle-Dove
+Liocichla omeiensis_Mount Omei Babbler
+Ducula rosacea_Javan Imperial Pigeon
+Otidiphaps aruensis_White-naped Pheasant-Pigeon
+Lophura edwardsi_Edwards's Pheasant
+Amazona aestiva_Blue-fronted Amazon

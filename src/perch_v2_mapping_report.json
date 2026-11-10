@@ -1,0 +1,724 @@
+{
+  "summary": {
+    "total": 124,
+    "exact": 114,
+    "fuzzy": 3,
+    "unmapped": 7,
+    "success_rate": 94.35483870967742
+  },
+  "exact_matches": [
+    {
+      "birdnet": "Aegypius monachus_Cinereous Vulture",
+      "perch_species": "Aegypius monachus",
+      "perch_idx": 177,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Anser erythropus_Lesser White-fronted Goose",
+      "perch_species": "Anser erythropus",
+      "perch_idx": 758,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Anthropoides virgo_Demoiselle Crane",
+      "perch_species": "Anthropoides virgo",
+      "perch_idx": 834,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Apus apus_Common Swift",
+      "perch_species": "Apus apus",
+      "perch_idx": 997,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Aythya fuligula_Tufted Duck",
+      "perch_species": "Aythya fuligula",
+      "perch_idx": 1431,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Balearica pavonina_Black Crowned Crane",
+      "perch_species": "Balearica pavonina",
+      "perch_idx": 1449,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Balearica regulorum_Gray Crowned-Crane",
+      "perch_species": "Balearica regulorum",
+      "perch_idx": 1450,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Bostrychia hagedash_Hadada Ibis",
+      "perch_species": "Bostrychia hagedash",
+      "perch_idx": 1670,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Branta canadensis_Canada Goose",
+      "perch_species": "Branta canadensis",
+      "perch_idx": 1743,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Branta ruficollis_Red-breasted Goose",
+      "perch_species": "Branta ruficollis",
+      "perch_idx": 1746,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Burhinus capensis_Spotted Thick-knee",
+      "perch_species": "Burhinus capensis",
+      "perch_idx": 1842,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Chauna torquata_Southern Screamer",
+      "perch_species": "Chauna torquata",
+      "perch_idx": 2595,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ciconia ciconia_White Stork",
+      "perch_species": "Ciconia ciconia",
+      "perch_idx": 2895,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ciconia nigra_Black Stork",
+      "perch_species": "Ciconia nigra",
+      "perch_idx": 2898,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Cinnyricinclus leucogaster_Violet-backed Starling",
+      "perch_species": "Cinnyricinclus leucogaster",
+      "perch_idx": 2944,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Columba guinea_Speckled Pigeon",
+      "perch_species": "Columba guinea",
+      "perch_idx": 3244,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Columba livia_Rock Pigeon",
+      "perch_species": "Columba livia",
+      "perch_idx": 3251,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Columba palumbus_Common Wood Pigeon",
+      "perch_species": "Columba palumbus",
+      "perch_idx": 3256,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Copsychus malabaricus_White-rumped Shama",
+      "perch_species": "Copsychus malabaricus",
+      "perch_idx": 3375,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Coracias garrulus_European Roller",
+      "perch_species": "Coracias garrulus",
+      "perch_idx": 3388,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Corvus corone_Carrion Crow",
+      "perch_species": "Corvus corone",
+      "perch_idx": 3441,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Cyanopica cyanus_Azure-winged Magpie",
+      "perch_species": "Cyanopica cyanus",
+      "perch_idx": 3852,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Dendrocygna autumnalis_Black-bellied Whistling-Duck",
+      "perch_species": "Dendrocygna autumnalis",
+      "perch_idx": 4054,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Dendrocygna bicolor_Fulvous Whistling-Duck",
+      "perch_species": "Dendrocygna bicolor",
+      "perch_idx": 4055,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Dendrocygna viduata_White-faced Whistling-Duck",
+      "perch_species": "Dendrocygna viduata",
+      "perch_idx": 4059,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ducula bicolor_Pied Imperial-Pigeon",
+      "perch_species": "Ducula bicolor",
+      "perch_idx": 4395,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Egretta garzetta_Little Egret",
+      "perch_species": "Egretta garzetta",
+      "perch_idx": 4495,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Eudocimus ruber_Scarlet Ibis",
+      "perch_species": "Eudocimus ruber",
+      "perch_idx": 4864,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Falco naumanni_Lesser Kestrel",
+      "perch_species": "Falco naumanni",
+      "perch_idx": 5085,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Fringilla coelebs_Eurasian Chaffinch",
+      "perch_species": "Fringilla coelebs",
+      "perch_idx": 5228,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Fulica atra_Eurasian Coot",
+      "perch_species": "Fulica atra",
+      "perch_idx": 5246,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Gallicolumba crinigera_Mindanao Bleeding-heart Dove",
+      "perch_species": "Gallicolumba crinigera",
+      "perch_idx": 5309,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Gallinula chloropus_Eurasian Moorhen",
+      "perch_species": "Gallinula chloropus",
+      "perch_idx": 5333,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Geronticus eremita_Northern Bald Ibis",
+      "perch_species": "Geronticus eremita",
+      "perch_idx": 5497,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Guttera pucherani_Crested Guineafowl",
+      "perch_species": "Guttera pucherani",
+      "perch_idx": 5739,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Gyps fulvus_Eurasian Griffon",
+      "perch_species": "Gyps fulvus",
+      "perch_idx": 5780,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Gyps rueppelli_R\u00fcppell's Vulture",
+      "perch_species": "Gyps rueppelli",
+      "perch_idx": 5783,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Haematopus ostralegus_Eurasian Oystercatcher",
+      "perch_species": "Haematopus ostralegus",
+      "perch_idx": 5811,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Lamprotornis superbus_Superb Starling",
+      "perch_species": "Lamprotornis superbus",
+      "perch_idx": 6803,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Larosterna inca_Inca Tern",
+      "perch_species": "Larosterna inca",
+      "perch_idx": 6870,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Leptoptilos crumenifer_Marabou Stork",
+      "perch_species": "Leptoptilos crumenifer",
+      "perch_idx": 7080,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Leucopsar rothschildi_Bali Starling",
+      "perch_species": "Leucopsar rothschildi",
+      "perch_idx": 7129,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Mareca penelope_Eurasian Wigeon",
+      "perch_species": "Mareca penelope",
+      "perch_idx": 7652,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Mareca sibilatrix_Chiloe Wigeon",
+      "perch_species": "Mareca sibilatrix",
+      "perch_idx": 7653,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Marmaronetta angustirostris_Marbled Teal",
+      "perch_species": "Marmaronetta angustirostris",
+      "perch_idx": 7664,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Milvus migrans_Black Kite",
+      "perch_species": "Milvus migrans",
+      "perch_idx": 8143,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Neophron percnopterus_Egyptian Vulture",
+      "perch_species": "Neophron percnopterus",
+      "perch_idx": 8740,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Oriolus auratus_African Golden Oriole",
+      "perch_species": "Oriolus auratus",
+      "perch_idx": 9302,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Oxyura leucocephala_White-headed Duck",
+      "perch_species": "Oxyura leucocephala",
+      "perch_idx": 9484,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Padda oryzivora_Java Sparrow",
+      "perch_species": "Padda oryzivora",
+      "perch_idx": 9583,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Parus major_Great Tit",
+      "perch_species": "Parus major",
+      "perch_idx": 9719,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Passer domesticus_House Sparrow",
+      "perch_species": "Passer domesticus",
+      "perch_idx": 9725,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Patagioenas picazuro_Picazuro Pigeon",
+      "perch_species": "Patagioenas picazuro",
+      "perch_idx": 9768,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Pelecanus occidentalis_Brown Pelican",
+      "perch_species": "Pelecanus occidentalis",
+      "perch_idx": 9808,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Pelecanus rufescens_Pink-backed Pelican",
+      "perch_species": "Pelecanus rufescens",
+      "perch_idx": 9811,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Phoenicopterus chilensis_Chilean Flamingo",
+      "perch_species": "Phoenicopterus chilensis",
+      "perch_idx": 10146,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Phoenicopterus roseus_Greater Flamingo",
+      "perch_species": "Phoenicopterus roseus",
+      "perch_idx": 10147,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Phoenicopterus ruber_American Flamingo",
+      "perch_species": "Phoenicopterus ruber",
+      "perch_idx": 10148,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Phylloscopus collybita_Common Chiffchaff",
+      "perch_species": "Phylloscopus collybita",
+      "perch_idx": 10291,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Pica pica_Eurasian Magpie",
+      "perch_species": "Pica pica",
+      "perch_idx": 10397,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Platalea ajaja_Roseate Spoonbill",
+      "perch_species": "Platalea ajaja",
+      "perch_idx": 10547,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Platalea leucorodia_Eurasian Spoonbill",
+      "perch_species": "Platalea leucorodia",
+      "perch_idx": 10550,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Plegadis falcinellus_Glossy Ibis",
+      "perch_species": "Plegadis falcinellus",
+      "perch_idx": 10633,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Plegadis ridgwayi_Puna Ibis",
+      "perch_species": "Plegadis ridgwayi",
+      "perch_idx": 10634,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ploceus cucullatus_Village Weaver",
+      "perch_species": "Ploceus cucullatus",
+      "perch_idx": 10670,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ploceus melanocephalus_Black-headed Weaver",
+      "perch_species": "Ploceus melanocephalus",
+      "perch_idx": 10683,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Pternistis leucoscepus_Yellow-necked Francolin",
+      "perch_species": "Pternistis leucoscepus",
+      "perch_idx": 11450,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Quelea quelea_Red-billed Quelea",
+      "perch_species": "Quelea quelea",
+      "perch_idx": 11811,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Recurvirostra avosetta_Pied Avocet",
+      "perch_species": "Recurvirostra avosetta",
+      "perch_idx": 11956,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Rollulus rouloul_Crested Partridge",
+      "perch_species": "Rollulus rouloul",
+      "perch_idx": 12177,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Sagittarius serpentarius_Secretarybird",
+      "perch_species": "Sagittarius serpentarius",
+      "perch_idx": 12224,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Scopus umbretta_Hamerkop",
+      "perch_species": "Scopus umbretta",
+      "perch_idx": 12456,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Sibirionetta formosa_Baikal Teal",
+      "perch_species": "Sibirionetta formosa",
+      "perch_idx": 12638,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Spatula clypeata_Northern Shoveler",
+      "perch_species": "Spatula clypeata",
+      "perch_idx": 12742,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Spatula cyanoptera_Cinnamon Teal",
+      "perch_species": "Spatula cyanoptera",
+      "perch_idx": 12743,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Streptopelia decaocto_Eurasian Collared Dove",
+      "perch_species": "Streptopelia decaocto",
+      "perch_idx": 13059,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Streptopelia turtur_European Turtle-Dove",
+      "perch_species": "Streptopelia turtur",
+      "perch_idx": 13069,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Tadorna tadorna_Common Shelduck",
+      "perch_species": "Tadorna tadorna",
+      "perch_idx": 13362,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Tauraco violaceus_Violet Turaco",
+      "perch_species": "Tauraco violaceus",
+      "perch_idx": 13477,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Threskiornis aethiopicus_Sacred Ibis",
+      "perch_species": "Threskiornis aethiopicus",
+      "perch_idx": 13689,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Threskiornis spinicollis_Straw-necked Ibis",
+      "perch_species": "Threskiornis spinicollis",
+      "perch_idx": 13692,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Turdus merula_Common Blackbird",
+      "perch_species": "Turdus merula",
+      "perch_idx": 14114,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Upupa epops_Eurasian Hoopoe",
+      "perch_species": "Upupa epops",
+      "perch_idx": 14240,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Necrosyrtes monachus_Hooded Vulture",
+      "perch_species": "Necrosyrtes monachus",
+      "perch_idx": 8653,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Mergus squamatus_Scaly-sided Merganser",
+      "perch_species": "Mergus squamatus",
+      "perch_idx": 7965,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ardea goliath_Goliath heron",
+      "perch_species": "Ardea goliath",
+      "perch_idx": 1099,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Ploceus castaneiceps_Taveta Golden Weaver",
+      "perch_species": "Ploceus castaneiceps",
+      "perch_idx": 10668,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Centropus superciliosus_White-browed Coucal",
+      "perch_species": "Centropus superciliosus",
+      "perch_idx": 2398,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Urocolius macrourus_Blue-naped Mousebird",
+      "perch_species": "Urocolius macrourus",
+      "perch_idx": 14267,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Coracias caudatus_Lilac-breasted Roller",
+      "perch_species": "Coracias caudatus",
+      "perch_idx": 3386,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Numida meleagris_Helmeted Guineafowl",
+      "perch_species": "Numida meleagris",
+      "perch_idx": 8949,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Acryllium vulturinum_Vulturine Guineafowl",
+      "perch_species": "Acryllium vulturinum",
+      "perch_idx": 116,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Onychognathus morio_Red-winged Starling",
+      "perch_species": "Onychognathus morio",
+      "perch_idx": 9222,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Lamprotornis albicapillus_White-crowned Starling",
+      "perch_species": "Lamprotornis albicapillus",
+      "perch_idx": 6784,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Porphyrio madagascariensis_African Purple Swamphen",
+      "perch_species": "Porphyrio madagascariensis",
+      "perch_idx": 11020,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Columba arquatrix_African Olive Pigeon",
+      "perch_species": "Columba arquatrix",
+      "perch_idx": 3239,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Anas acuta_Northern Pintail",
+      "perch_species": "Anas acuta",
+      "perch_idx": 628,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Merops apiaster_European Bee-eater",
+      "perch_species": "Merops apiaster",
+      "perch_idx": 7971,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Pastor roseus_Rosy Starling",
+      "perch_species": "Pastor roseus",
+      "perch_idx": 9755,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Charadrius hiaticula_Common Ringed Plover",
+      "perch_species": "Charadrius hiaticula",
+      "perch_idx": 2579,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Tringa totanus_Common Redshank",
+      "perch_species": "Tringa totanus",
+      "perch_idx": 13961,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Calidris pugnax_Ruff",
+      "perch_species": "Calidris pugnax",
+      "perch_idx": 2000,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Mergus merganser_Goosander",
+      "perch_species": "Mergus merganser",
+      "perch_idx": 7962,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Aythya collaris_Ring-necked Duck",
+      "perch_species": "Aythya collaris",
+      "perch_idx": 1429,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Himantopus himantopus_Black-winged Stilt",
+      "perch_species": "Himantopus himantopus",
+      "perch_idx": 6086,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Psarocolius viridis_Green Oropendola",
+      "perch_species": "Psarocolius viridis",
+      "perch_idx": 11233,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Oriolus oriolus_Eurasian Golden oriole",
+      "perch_species": "Oriolus oriolus",
+      "perch_idx": 9319,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Tockus deckeni_Von der Decken's hornbill",
+      "perch_species": "Tockus deckeni",
+      "perch_idx": 13760,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Vanellus armatus_Blacksmith lapwing",
+      "perch_species": "Vanellus armatus",
+      "perch_idx": 14312,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Dinemellia dinemelli_White-headed buffalo weaver",
+      "perch_species": "Dinemellia dinemelli",
+      "perch_idx": 4251,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Spilopelia senegalensis_Laughing dove",
+      "perch_species": "Spilopelia senegalensis",
+      "perch_idx": 12817,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Necrosyrtes monachus_Hooded vulture",
+      "perch_species": "Necrosyrtes monachus",
+      "perch_idx": 8653,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Mycteria ibis_Yellow-billed stork",
+      "perch_species": "Mycteria ibis",
+      "perch_idx": 8386,
+      "confidence": 1.0
+    },
+    {
+      "birdnet": "Gypaetus barbatus_Bearded vulture",
+      "perch_species": "Gypaetus barbatus",
+      "perch_idx": 5775,
+      "confidence": 1.0
+    }
+  ],
+  "fuzzy_matches": [
+    {
+      "birdnet": "Anser cygnoid_Swan Goose",
+      "perch_species": "Anser cygnoides",
+      "perch_idx": 757,
+      "confidence": 0.9285714285714286
+    },
+    {
+      "birdnet": "Burhinus oedicnemus oedicnemus_Stone Curlew",
+      "perch_species": "Burhinus oedicnemus",
+      "perch_idx": 1845,
+      "confidence": 0.95
+    },
+    {
+      "birdnet": "Afropapo congensis_Congo peafowl",
+      "perch_species": "Afropavo congensis",
+      "perch_idx": 254,
+      "confidence": 0.9444444444444444
+    }
+  ],
+  "unmapped_species": [
+    "Bubulcus ibis_Cattle Egret",
+    "Corvus monedula_Eurasian Jackdaw",
+    "Ciconia abdimii_Abdim's Stork",
+    "Aythya baeri_Baer's pochard",
+    "Pycnonotus tricolor_Dark-capped Bulbul",
+    "Ardeola idae_Madagascar pond heron",
+    "Trigonoceps occipitalis_White-headed vulture"
+  ]
+}

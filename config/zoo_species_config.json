@@ -1,0 +1,842 @@
+{
+  "wild_birds": [
+    "Common Blackbird",
+    "House Sparrow",
+    "White Stork",
+    "Great Tit",
+    "Eurasian Chaffinch",
+    "Common Chiffchaff",
+    "Carrion Crow",
+    "Eurasian Jackdaw",
+    "Eurasian Magpie",
+    "Canada Goose",
+    "Rock Pigeon",
+    "Common Wood Pigeon",
+    "Eurasian Collared Dove",
+    "Eurasian Coot",
+    "Eurasian Moorhen",
+    "Common Swift"
+  ],
+  "zoos": {
+    "beekse_bergen": {
+      "all_birds": [
+        "Eurasian Griffon",
+        "Sacred Ibis",
+        "Rüppell's Vulture",
+        "Secretarybird",
+        "Black Crowned Crane",
+        "Violet Turaco",
+        "Superb Starling",
+        "Village Weaver",
+        "Crested Guineafowl",
+        "African Spoonbill",
+        "Spotted Thick-knee",
+        "Eurasian Hoopoe",
+        "Red-crested Turaco",
+        "Gray Crowned-Crane",
+        "Speckled Pigeon",
+        "Red-billed Quelea",
+        "Violet-backed Starling",
+        "Greater Flamingo",
+        "Hadada Ibis"
+      ],
+      "cages": {
+        "flamingos": [
+          "Greater Flamingo",
+          "Hadada Ibis"
+        ],
+        "aviary3": [
+          "Eurasian Griffon",
+          "Sacred Ibis",
+          "Rüppell's Vulture",
+          "Secretarybird",
+          "Black Crowned-Crane",
+          "Violet Turaco",
+          "Superb Starling",
+          "Village Weaver",
+          "Crested Guineafowl"
+        ],
+        "aviary4": [
+          "African Spoonbill",
+          "Spotted Thick-knee",
+          "Eurasian Hoopoe",
+          "Red-crested Turaco",
+          "Gray Crowned-Crane",
+          "Speckled Pigeon",
+          "Red-billed Quelea",
+          "Violet-backed Starling"
+        ]
+      }
+    },
+    "zoo_eindhoven": {
+      "all_birds": [
+        "Black Kite",
+        "Black Stork",
+        "Chiloe Wigeon",
+        "Goliath Heron",
+        "Greater Flamingo",
+        "Little Egret",
+        "Northern Bald Ibis",
+        "Pink-backed Pelican",
+        "Scarlet Ibis",
+        "Straw-necked Ibis",
+        "Java Sparrow",
+        "Pied Imperial-Pigeon",
+        "Eurasian Spoonbill",
+        "Gray Crowned-Crane",
+        "Cattle Egret"
+      ],
+      "cages": {
+        "20250308": [
+          "Black Kite",
+          "Black Stork",
+          "Chiloe Wigeon",
+          "Goliath Heron",
+          "Greater Flamingo",
+          "Little Egret",
+          "Northern Bald Ibis",
+          "Pink-backed Pelican",
+          "Scarlet Ibis",
+          "Straw-necked Ibis"
+        ],
+        "20250426": [
+          "Black Kite",
+          "Black Stork",
+          "Chiloe Wigeon",
+          "Goliath Heron",
+          "Greater Flamingo",
+          "Little Egret",
+          "Northern Bald Ibis",
+          "Pink-backed Pelican",
+          "Scarlet Ibis",
+          "Straw-necked Ibis"
+        ],
+        "20250315": [
+          "Java Sparrow",
+          "Pied Imperial-Pigeon"
+        ],
+        "20250503": [
+          "Eurasian Spoonbill",
+          "Gray Crowned-Crane",
+          "Cattle Egret"
+        ]
+      }
+    },
+    "zoo_helsinki": {
+      "all_birds": [
+        "Village Weaver",
+        "Bali Starling",
+        "Crested Partridge",
+        "White-Rumped Shama",
+        "Mindanao Bleeding-heart Dove"
+      ],
+      "cages": {
+        "20250624": [
+          "Village Weaver",
+          "Bali Starling"
+        ],
+        "20250701": [
+          "Bali Starling",
+          "Crested Partridge",
+          "White-Rumped Shama",
+          "Mindanao Bleeding-heart Dove"
+        ]
+      }
+    },
+    "gaia_zoo_congo": {
+      "all_birds": [
+        "Black-headed Weaver",
+        "Eurasian Hoopoe",
+        "Red-billed Quelea"
+      ],
+      "cages": {}
+    },
+    "gaia_zoo_taiga": {
+      "all_birds": [
+        "Cinereous Vulture",
+        "Swan Goose",
+        "Lesser White-fronted Goose",
+        "Baer's Pochard",
+        "Red-breasted Goose",
+        "Stone Curlew",
+        "Rock Pigeon",
+        "European Roller",
+        "Azure-winged Magpie",
+        "Lesser Kestrel",
+        "Northern Bald Ibis",
+        "Eurasian Griffon",
+        "Eurasian Oystercatcher",
+        "Marbled Teal",
+        "Scaly-sided Merganser",
+        "Egyptian Vulture",
+        "White-headed Duck",
+        "Glossy Ibis",
+        "Pied Avocet",
+        "Baikal Teal",
+        "European Turtle-Dove",
+        "Common Shelduck",
+        "Sacred Ibis"
+      ],
+      "cages": {}
+    },
+    "gaia_zoo_savannah": {
+      "all_birds": [
+        "Demoiselle Crane",
+        "Tufted Duck",
+        "Hadada Ibis",
+        "Cattle Egret",
+        "Abdim's Stork",
+        "Fulvous Whistling-Duck",
+        "Southern Bald Ibis",
+        "Eurasian Wigeon",
+        "Greater Flamingo",
+        "Knob-billed Duck",
+        "Hamerkop",
+        "Northern Shoveler"
+      ],
+      "cages": {}
+    },
+    "zoo_parc": {
+      "all_birds": [
+        "Chilean Flamingo",
+        "Cinnamon Teal",
+        "White-faced Whistling-Duck",
+        "Southern Screamer",
+        "Puna Ibis"
+      ],
+      "cages": {
+        "aug25": [
+          "Chilean Flamingo",
+          "Cinnamon Teal",
+          "White-faced Whistling-Duck",
+          "Southern Screamer",
+          "Puna Ibis"
+        ]
+      }
+    },
+    "avifauna": {
+      "all_birds": [
+        "American Flamingo",
+        "Picazuro Pigeon",
+        "Abdim's Stork",
+        "Scarlet Ibis",
+        "Glossy Ibis",
+        "Roseate Spoonbill",
+        "Cattle Egret",
+        "Inca Tern",
+        "Crested Guineafowl",
+        "Yellow-necked Francolin",
+        "Violet Turaco",
+        "Marabou Stork",
+        "Rüppell's Vulture",
+        "Hooded Vulture",
+        "Egyptian Vulture",
+        "White-headed Vulture",
+        "Secretarybird",
+        "Eurasian Hoopoe",
+        "European Roller",
+        "African Golden Oriole",
+        "Superb Starling",
+        "Black-bellied Whistling-Duck",
+        "Brown Pelican"
+      ],
+      "cages": {
+        "flamingos": [
+          "American Flamingo",
+          "Picazuro Pigeon",
+          "Abdim's Stork",
+          "Scarlet Ibis",
+          "Glossy Ibis",
+          "Roseate Spoonbill",
+          "Cattle Egret",
+          "Inca Tern"
+        ],
+        "vultures": [
+          "Crested Guineafowl",
+          "Yellow-necked Francolin",
+          "Violet Turaco",
+          "Marabou Stork",
+          "Rüppell's Vulture",
+          "Hooded Vulture",
+          "Egyptian Vulture",
+          "White-headed Vulture",
+          "Secretarybird",
+          "Eurasian Hoopoe",
+          "European Roller",
+          "African Golden Oriole",
+          "Superb Starling"
+        ],
+        "storage": [
+          "Black-bellied Whistling-Duck",
+          "Inca Tern",
+          "Scarlet Ibis",
+          "Brown Pelican"
+        ]
+      }
+    },
+    "blijdorp": {
+      "all_birds": [
+        "Greater Flamingo",
+        "Baer's Pochard",
+        "Northern Shoveler",
+        "Northern Pintail"
+      ],
+      "cages": {
+        "flamingos": [
+          "Greater Flamingo",
+          "Baer's Pochard",
+          "Northern Shoveler",
+          "Northern Pintail"
+        ]
+      }
+    },
+    "cologne": {
+      "all_birds": [
+        "Taveta Golden Weaver",
+        "White-browed Coucal",
+        "White-faced Whistling Duck",
+        "Blue-naped Mousebird",
+        "Superb Starling",
+        "Lilac-breasted Roller",
+        "Red-crested Turaco",
+        "Dark-capped Bulbul",
+        "Helmeted Guineafowl",
+        "Vulturine Guineafowl",
+        "Red-winged Starling",
+        "White-crowned Starling",
+        "Eurasian Hoopoe",
+        "Hadada Ibis",
+        "African Purple Swamphen",
+        "Abdim's Stork",
+        "African Olive Pigeon",
+        "Inca Tern",
+        "European Bee-eater",
+        "European Turtle Dove",
+        "Rosy Starling",
+        "Stone Curlew",
+        "Pied Avocet",
+        "Common Ringed Plover",
+        "Common Redshank",
+        "Ruff",
+        "Goosander",
+        "Ring-necked Duck",
+        "Black-winged Stilt",
+        "Green Oropendola",
+        "American Flamingo"
+      ],
+      "cages": {
+        "flamingos": [
+          "American Flamingo"
+        ],
+        "hippodom": [
+          "Taveta Golden Weaver",
+          "White-browed Coucal",
+          "White-faced Whistling Duck",
+          "Blue-naped Mousebird",
+          "Superb Starling",
+          "Lilac-breasted Roller",
+          "Red-crested Turaco",
+          "Dark-capped Bulbul",
+          "Helmeted Guineafowl",
+          "Vulturine Guineafowl",
+          "Red-winged Starling",
+          "White-crowned Starling",
+          "Eurasian Hoopoe",
+          "Hadada Ibis",
+          "African Purple Swamphen",
+          "Abdim's Stork",
+          "African Olive Pigeon"
+        ],
+        "swallows": [
+          "Inca Tern"
+        ],
+        "aviary4": [
+          "European Bee-eater",
+          "European Turtle Dove",
+          "Rosy Starling",
+          "Stone Curlew",
+          "Pied Avocet",
+          "Common Ringed Plover",
+          "Common Redshank",
+          "Ruff",
+          "Goosander",
+          "Ring-necked Duck",
+          "Black-winged Stilt"
+        ],
+        "by_sealions": [
+          "Green Oropendola"
+        ]
+      }
+    },
+    "antwerpen": {
+      "all_birds": [
+        "Congo peafowl",
+        "Violet-backed starling",
+        "White-headed buffalo weaver",
+        "Village weaver",
+        "European Turtle-Dove",
+        "Pied avocet",
+        "Common Redshank",
+        "Ruff",
+        "Eurasian Golden oriole",
+        "Abdim's stork",
+        "African spoonbill",
+        "Hamerkop",
+        "Hadada ibis",
+        "Ruppell's griffon vulture",
+        "Hooded vulture",
+        "Lilac-breasted Roller",
+        "Fulvous whistling duck",
+        "White-faced whistling Duck",
+        "Crested Guineafowl",
+        "Speckled pigeon",
+        "Speckled pigeon",
+        "Laughing dove",
+        "White-headed buffalo weaver",
+        "Crested Guineafowl",
+        "Superb starling",
+        "White-headed buffalo weaver",
+        "Crested Guineafowl",
+        "Yellow-necked francolin",
+        "Knob-billed duck",
+        "Violet turaco",
+        "Yellow-billed stork",
+        "Southern bald ibis",
+        "Madagascar pond heron",
+        "Blacksmith lapwing",
+        "Von der Decken's hornbill"
+      ],
+      "cages": {
+        "weavers": [
+          "Congo peafowl",
+          "Violet-backed starling",
+          "White-headed buffalo weaver",
+          "Village weaver"
+        ],
+        "avocets": [
+          "European Turtle-Dove",
+          "Pied avocet",
+          "Common Redshank",
+          "Ruff",
+          "Eurasian Golden oriole"
+        ],
+        "savanna": [
+          "Abdim's stork",
+          "African spoonbill",
+          "Hamerkop",
+          "Hadada ibis",
+          "Ruppell's griffon vulture",
+          "Hooded vulture",
+          "Lilac-breasted Roller",
+          "Fulvous whistling duck",
+          "White-faced whistling Duck",
+          "Crested Guineafowl",
+          "Speckled pigeon",
+          "Speckled pigeon",
+          "Laughing dove",
+          "White-headed buffalo weaver",
+          "Crested Guineafowl",
+          "Superb starling",
+          "White-headed buffalo weaver",
+          "Crested Guineafowl",
+          "Yellow-necked francolin",
+          "Knob-billed duck",
+          "Violet turaco",
+          "Yellow-billed stork",
+          "Southern bald ibis",
+          "Madagascar pond heron",
+          "Blacksmith lapwing",
+          "Von der Decken's hornbill"
+        ]
+      }
+    },
+    "aachen": {
+      "all_birds": [
+        "Greater Flamingo",
+        "Common crane",
+        "Demoiselle crane",
+        "White stork",
+        "Pied Avocet",
+        "Black-winged stilt",
+        "Bearded vulture",
+        "Scarlet ibis",
+        "Northern bald ibis",
+        "Sacred ibis",
+        "Little Egret",
+        "Bali Starling"
+      ],
+      "cages": {
+        "flamingos": [
+          "Greater Flamingo",
+          "Common crane",
+          "Demoiselle crane",
+          "White stork"
+        ],
+        "avocets": [
+          "Pied Avocet",
+          "Black-winged stilt"
+        ],
+        "ibises": [
+          "Bearded vulture",
+          "Scarlet ibis",
+          "Northern bald ibis",
+          "Sacred ibis",
+          "Little Egret"
+        ],
+        "balistar": [
+          "Bali Starling"
+        ]
+      }
+    },
+    "duisburg": {
+      "all_birds": [
+        "Greater Flamingo",
+        "American Flamingo",
+        "Pink-backed Pelican",
+        "Mindanao Bleeding-heart Dove",
+        "Magpie Robin",
+        "Golden-billed Saltator",
+        "Grey-capped Emerald Dove",
+        "Scarlet-breasted Lorikeet",
+        "Madagascar Turtle-Dove",
+        "Mount Omei Babbler",
+        "Javan Imperial Pigeon",
+        "Red-legged Thrush",
+        "Crested Partridge",
+        "White-naped Pheasant-Pigeon"
+      ],
+      "cages": {
+        "flamingos": [
+          "Greater Flamingo",
+          "American Flamingo",
+          "Pink-backed Pelican"
+        ],
+        "asia": [
+          "Mindanao Bleeding-heart Dove",
+          "Magpie Robin",
+          "Golden-billed Saltator",
+          "Grey-capped Emerald Dove",
+          "Scarlet-breasted Lorikeet",
+          "Madagascar Turtle-Dove",
+          "Mount Omei Babbler",
+          "Javan Imperial Pigeon",
+          "Red-legged Thrush",
+          "Crested Partridge",
+          "White-naped Pheasant-Pigeon"
+        ]
+      }
+    },
+    "ziezoo": {
+      "all_birds": [
+        "Greater Flamingo",
+        "Glossy Ibis",
+        "Eurasian Spoonbill",
+        "Cattle Egret",
+        "Black-crowned Night Heron",
+        "Hamerkop"
+      ],
+      "cages": {
+        "flamingos": [
+          "Greater Flamingo",
+          "Glossy Ibis",
+          "Eurasian Spoonbill",
+          "Cattle Egret",
+          "Black-crowned Night Heron",
+          "Hamerkop"
+        ]
+      }
+    },
+    "gaia_savannah": {
+      "all_birds": [
+        "Greater Flamingo",
+        "Hadada Ibis",
+        "Southern Bald Ibis",
+        "Sacred Ibis",
+        "Cattle Egret",
+        "Hamerkop",
+        "Fulvous Whistling-Duck",
+        "Knob-billed Duck",
+        "Northern Shoveler",
+        "Tufted Duck",
+        "Demoiselle Crane",
+        "Eurasian Wigeon",
+        "Eurasian Oystercatcher"
+      ],
+      "cages": {
+        "first_location": [
+          "Greater Flamingo",
+          "Hadada Ibis",
+          "Southern Bald Ibis",
+          "Sacred Ibis",
+          "Cattle Egret",
+          "Hamerkop",
+          "Fulvous Whistling-Duck",
+          "Knob-billed Duck",
+          "Northern Shoveler",
+          "Tufted Duck",
+          "Demoiselle Crane",
+          "Eurasian Wigeon",
+          "Eurasian Oystercatcher"
+        ],
+        "second_location": [
+          "Greater Flamingo",
+          "Hadada Ibis",
+          "Southern Bald Ibis",
+          "Sacred Ibis",
+          "Cattle Egret",
+          "Hamerkop",
+          "Fulvous Whistling-Duck",
+          "Knob-billed Duck",
+          "Northern Shoveler",
+          "Tufted Duck",
+          "Demoiselle Crane",
+          "Eurasian Wigeon",
+          "Eurasian Oystercatcher"
+        ]
+      }
+    },
+    "gaia_taiga": {
+      "all_birds": [
+        "Eurasian Griffon",
+        "Egyptian Vulture",
+        "Cinereous Vulture",
+        "Northern Bald Ibis",
+        "Glossy Ibis",
+        "Lesser Kestrel",
+        "Pied Avocet",
+        "Common Shelduck",
+        "White-headed Duck",
+        "Marbled Teal",
+        "Baikal Teal",
+        "Baer's Pochard",
+        "Red-breasted Goose",
+        "Lesser White-fronted Goose",
+        "Azure-winged Magpie",
+        "European Roller",
+        "Stone Curlew",
+        "Rock Pigeon",
+        "Scaly-sided Merganser",
+        "European Turtle-Dove",
+        "Swan Goose",
+        "Eurasian Wigeon"
+      ],
+      "cages": {
+        "first_location": [
+          "Eurasian Griffon",
+          "Egyptian Vulture",
+          "Cinereous Vulture",
+          "Northern Bald Ibis",
+          "Glossy Ibis",
+          "Lesser Kestrel",
+          "Pied Avocet",
+          "Common Shelduck",
+          "White-headed Duck",
+          "Marbled Teal",
+          "Baikal Teal",
+          "Baer's Pochard",
+          "Red-breasted Goose",
+          "Lesser White-fronted Goose",
+          "Azure-winged Magpie",
+          "European Roller",
+          "Stone Curlew",
+          "Rock Pigeon",
+          "Scaly-sided Merganser",
+          "European Turtle-Dove",
+          "Swan Goose",
+          "Eurasian Wigeon"
+        ],
+        "second_location": [
+          "Eurasian Griffon",
+          "Egyptian Vulture",
+          "Cinereous Vulture",
+          "Northern Bald Ibis",
+          "Glossy Ibis",
+          "Lesser Kestrel",
+          "Pied Avocet",
+          "Common Shelduck",
+          "White-headed Duck",
+          "Marbled Teal",
+          "Baikal Teal",
+          "Baer's Pochard",
+          "Red-breasted Goose",
+          "Lesser White-fronted Goose",
+          "Azure-winged Magpie",
+          "European Roller",
+          "Stone Curlew",
+          "Rock Pigeon",
+          "Scaly-sided Merganser",
+          "European Turtle-Dove",
+          "Swan Goose",
+          "Eurasian Wigeon"
+        ]
+      }
+    },
+    "mochengladbach": {
+      "all_birds": [
+        "Red-billed Blue-Magpie",
+        "Edwards's Pheasant",
+        "Rose-ringed Parakeet",
+        "White Cockatoo",
+        "Blue-fronted Amazon",
+        "Cockatiel",
+        "Mandarin Duck"
+      ],
+      "cages": {
+        "aviary1": [
+          "Red-billed Blue-Magpie",
+          "Edwards's Pheasant"
+        ],
+        "aviary2": [
+          "Rose-ringed Parakeet",
+          "White Cockatoo",
+          "Blue-fronted Amazon",
+          "Cockatiel",
+          "Mandarin Duck"
+        ]
+      }
+    }
+  },
+  "folder_patterns": {
+    "aachen": {
+      "cages": {
+        "flamingos": [
+          "flamingo"
+        ],
+        "balistar": [
+          "balistar"
+        ],
+        "avocets": [
+          "avocet"
+        ],
+        "ibises": [
+          "ibis"
+        ]
+      }
+    },
+    "antwerpen": {
+      "cages": {
+        "weavers": [
+          "weaver"
+        ],
+        "avocets": [
+          "avocet"
+        ],
+        "savanna": [
+          "savanna"
+        ]
+      }
+    },
+    "cologne": {
+      "cages": {
+        "by_sealions": [
+          "sealion"
+        ],
+        "aviary4": [
+          "aviary4"
+        ],
+        "swallows": [
+          "swallow"
+        ],
+        "hippodom": [
+          "indoor"
+        ],
+        "flamingos": [
+          "flamingo"
+        ]
+      }
+    },
+    "duisburg": {
+      "cages": {
+        "flamingos": [
+          "flamingo"
+        ],
+        "asia": [
+          "asia"
+        ]
+      }
+    },
+    "ziezoo": {
+      "cages": {
+        "flamingos": [
+          "flamingo"
+        ]
+      }
+    },
+    "zoo_eindhoven": {
+      "cages": {
+        "20250315": [
+          "javasparrow"
+        ],
+        "20250308": [
+          "large_aviary"
+        ],
+        "20250426": [
+          "large_ibises"
+        ],
+        "20250503": [
+          "spoonbills"
+        ]
+      }
+    },
+    "zoo_helsinki": {
+      "cages": {
+        "20250624": [
+          "africasia_desert"
+        ],
+        "20250701": [
+          "africasia_jungle"
+        ]
+      }
+    },
+    "zoo_parc": {
+      "cages": {
+        "aug25": [
+          "southamerica"
+        ]
+      }
+    },
+    "beekse_bergen": {
+      "cages": {
+        "aviary3": [
+          "aviary3"
+        ],
+        "aviary4": [
+          "aviary4"
+        ],
+        "flamingos": [
+          "flamingo"
+        ]
+      }
+    },
+    "gaia_savannah": {
+      "cages": {
+        "first_location": [
+          "first_location"
+        ],
+        "second_location": [
+          "second_location"
+        ]
+      }
+    },
+    "gaia_taiga": {
+      "cages": {
+        "first_location": [
+          "first_location"
+        ],
+        "second_location": [
+          "second_location"
+        ]
+      }
+    },
+    "mochengladbach": {
+      "cages": {
+        "aviary1": [
+          "kittas"
+        ],
+        "aviary2": [
+          "sept2026"
+        ]
+      }
+    }
+  }
+}

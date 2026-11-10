@@ -1,0 +1,387 @@
+{
+  "Otidiphaps aruensis_White-naped Pheasant-Pigeon": {
+    "status": "needs_review",
+    "candidates": [
+      {
+        "perch_name": "Otidiphaps nobilis",
+        "index": 9409,
+        "match_type": "genus_only"
+      }
+    ]
+  },
+  "Corvus monedula_Eurasian Jackdaw": {
+    "status": "needs_review",
+    "candidates": [
+      {
+        "perch_name": "Corvus albicollis",
+        "index": 3434,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus albus",
+        "index": 3435,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus bennetti",
+        "index": 3436,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus brachyrhynchos",
+        "index": 3437,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus capensis",
+        "index": 3438,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus corax",
+        "index": 3439,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus cornix",
+        "index": 3440,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus corone",
+        "index": 3441,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus coronoides",
+        "index": 3442,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus crassirostris",
+        "index": 3443,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus cryptoleucus",
+        "index": 3444,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus edithae",
+        "index": 3445,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus enca",
+        "index": 3446,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus florensis",
+        "index": 3447,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus frugilegus",
+        "index": 3448,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus fuscicapillus",
+        "index": 3449,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus imparatus",
+        "index": 3450,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus insularis",
+        "index": 3451,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus jamaicensis",
+        "index": 3452,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus kubaryi",
+        "index": 3453,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus leucognaphalus",
+        "index": 3454,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus macrorhynchos",
+        "index": 3455,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus meeki",
+        "index": 3456,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus mellori",
+        "index": 3457,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus minutus",
+        "index": 3458,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus moneduloides",
+        "index": 3459,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus nasicus",
+        "index": 3460,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus orru",
+        "index": 3461,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus ossifragus",
+        "index": 3462,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus palmarum",
+        "index": 3463,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus philippinus",
+        "index": 3464,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus pusillus",
+        "index": 3465,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus rhipidurus",
+        "index": 3466,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus ruficollis",
+        "index": 3467,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus samarensis",
+        "index": 3468,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus sinaloae",
+        "index": 3469,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus splendens",
+        "index": 3470,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus tasmanicus",
+        "index": 3471,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus torquatus",
+        "index": 3472,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus tristis",
+        "index": 3473,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus typicus",
+        "index": 3474,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus unicolor",
+        "index": 3475,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus validus",
+        "index": 3476,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus violaceus",
+        "index": 3477,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Corvus woodfordi",
+        "index": 3478,
+        "match_type": "genus_only"
+      }
+    ]
+  },
+  "Pycnonotus tricolor_Dark-capped Bulbul": {
+    "status": "needs_review",
+    "candidates": [
+      {
+        "perch_name": "Pycnonotus aurigaster",
+        "index": 11701,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus barbatus",
+        "index": 11702,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus bimaculatus",
+        "index": 11703,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus blanfordi",
+        "index": 11704,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus brunneus",
+        "index": 11705,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus cafer",
+        "index": 11706,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus capensis",
+        "index": 11707,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus cinereifrons",
+        "index": 11708,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus conradi",
+        "index": 11709,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus finlaysoni",
+        "index": 11710,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus flavescens",
+        "index": 11711,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus goiavier",
+        "index": 11712,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus jocosus",
+        "index": 11713,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus leucogenys",
+        "index": 11714,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus leucops",
+        "index": 11715,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus leucotis",
+        "index": 11716,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus luteolus",
+        "index": 11717,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus nigricans",
+        "index": 11718,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus penicillatus",
+        "index": 11719,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus plumosus",
+        "index": 11720,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus pseudosimplex",
+        "index": 11721,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus simplex",
+        "index": 11722,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus sinensis",
+        "index": 11723,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus taivanus",
+        "index": 11724,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus xantholaemus",
+        "index": 11725,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus xanthopygos",
+        "index": 11726,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus xanthorrhous",
+        "index": 11727,
+        "match_type": "genus_only"
+      },
+      {
+        "perch_name": "Pycnonotus zeylanicus",
+        "index": 11728,
+        "match_type": "genus_only"
+      }
+    ]
+  }
+}

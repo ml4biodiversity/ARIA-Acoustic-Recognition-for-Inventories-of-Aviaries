@@ -1,0 +1,142 @@
+Aegypius monachus_Cinereous Vulture
+Anser cygnoid_Swan Goose
+Anser erythropus_Lesser White-fronted Goose
+Anthropoides virgo_Demoiselle Crane
+Apus apus_Common Swift
+Aythya fuligula_Tufted Duck
+Balearica pavonina_Black Crowned Crane
+Balearica regulorum_Gray Crowned-Crane
+Bostrychia hagedash_Hadada Ibis
+Branta canadensis_Canada Goose
+Branta ruficollis_Red-breasted Goose
+Bubulcus ibis_Cattle Egret
+Burhinus capensis_Spotted Thick-knee
+Burhinus oedicnemus oedicnemus_Stone Curlew
+Chauna torquata_Southern Screamer
+Ciconia ciconia_White Stork
+Ciconia nigra_Black Stork
+Cinnyricinclus leucogaster_Violet-backed Starling
+Columba guinea_Speckled Pigeon
+Columba livia_Rock Pigeon
+Columba palumbus_Common Wood Pigeon
+Copsychus malabaricus_White-rumped Shama
+Coracias garrulus_European Roller
+Corvus corone_Carrion Crow
+Corvus monedula_Eurasian Jackdaw
+Cyanopica cyanus_Azure-winged Magpie
+Dendrocygna autumnalis_Black-bellied Whistling-Duck
+Dendrocygna bicolor_Fulvous Whistling-Duck
+Dendrocygna viduata_White-faced Whistling-Duck
+Ducula bicolor_Pied Imperial-Pigeon
+Egretta garzetta_Little Egret
+Eudocimus ruber_Scarlet Ibis
+Falco naumanni_Lesser Kestrel
+Fringilla coelebs_Eurasian Chaffinch
+Fulica atra_Eurasian Coot
+Gallicolumba crinigera_Mindanao Bleeding-heart Dove
+Gallinula chloropus_Eurasian Moorhen
+Geronticus eremita_Northern Bald Ibis
+Guttera pucherani_Crested Guineafowl
+Gyps fulvus_Eurasian Griffon
+Gyps rueppelli_Rüppell's Vulture
+Haematopus ostralegus_Eurasian Oystercatcher
+Lamprotornis superbus_Superb Starling
+Larosterna inca_Inca Tern
+Leptoptilos crumenifer_Marabou Stork
+Leucopsar rothschildi_Bali Starling
+Mareca penelope_Eurasian Wigeon
+Mareca sibilatrix_Chiloe Wigeon
+Marmaronetta angustirostris_Marbled Teal
+Milvus migrans_Black Kite
+Neophron percnopterus_Egyptian Vulture
+Oriolus auratus_African Golden Oriole
+Oxyura leucocephala_White-headed Duck
+Padda oryzivora_Java Sparrow
+Parus major_Great Tit
+Passer domesticus_House Sparrow
+Patagioenas picazuro_Picazuro Pigeon
+Pelecanus occidentalis_Brown Pelican
+Pelecanus rufescens_Pink-backed Pelican
+Phoenicopterus chilensis_Chilean Flamingo
+Phoenicopterus roseus_Greater Flamingo
+Phoenicopterus ruber_American Flamingo
+Phylloscopus collybita_Common Chiffchaff
+Pica pica_Eurasian Magpie
+Platalea ajaja_Roseate Spoonbill
+Platalea leucorodia_Eurasian Spoonbill
+Plegadis falcinellus_Glossy Ibis
+Plegadis ridgwayi_Puna Ibis
+Ploceus cucullatus_Village Weaver
+Ploceus melanocephalus_Black-headed Weaver
+Pternistis leucoscepus_Yellow-necked Francolin
+Quelea quelea_Red-billed Quelea
+Recurvirostra avosetta_Pied Avocet
+Rollulus rouloul_Crested Partridge
+Sagittarius serpentarius_Secretarybird
+Scopus umbretta_Hamerkop
+Sibirionetta formosa_Baikal Teal
+Spatula clypeata_Northern Shoveler
+Spatula cyanoptera_Cinnamon Teal
+Streptopelia decaocto_Eurasian Collared Dove
+Streptopelia turtur_European Turtle-Dove
+Tadorna tadorna_Common Shelduck
+Tauraco violaceus_Violet Turaco
+Threskiornis aethiopicus_Sacred Ibis
+Threskiornis spinicollis_Straw-necked Ibis
+Turdus merula_Common Blackbird
+Upupa epops_Eurasian Hoopoe
+Necrosyrtes monachus_Hooded Vulture
+Ciconia abdimii_Abdim's Stork
+Aythya baeri_Baer's pochard
+Mergus squamatus_Scaly-sided Merganser
+Ardea goliath_Goliath heron
+Ploceus castaneiceps_Taveta Golden Weaver
+Centropus superciliosus_White-browed Coucal
+Urocolius macrourus_Blue-naped Mousebird
+Coracias caudatus_Lilac-breasted Roller
+Pycnonotus tricolor_Dark-capped Bulbul
+Numida meleagris_Helmeted Guineafowl
+Acryllium vulturinum_Vulturine Guineafowl
+Onychognathus morio_Red-winged Starling
+Lamprotornis albicapillus_White-crowned Starling
+Porphyrio madagascariensis_African Purple Swamphen
+Columba arquatrix_African Olive Pigeon
+Anas acuta_Northern Pintail
+Merops apiaster_European Bee-eater
+Pastor roseus_Rosy Starling
+Charadrius hiaticula_Common Ringed Plover
+Tringa totanus_Common Redshank
+Calidris pugnax_Ruff
+Mergus merganser_Goosander
+Aythya collaris_Ring-necked Duck
+Himantopus himantopus_Black-winged Stilt
+Psarocolius viridis_Green Oropendola
+Oriolus oriolus_Eurasian Golden oriole
+Tockus deckeni_Von der Decken's hornbill
+Vanellus armatus_Blacksmith lapwing
+Dinemellia dinemelli_White-headed buffalo weaver
+Spilopelia senegalensis_Laughing dove
+Afropapo congensis_Congo peafowl
+Ardeola idae_Madagascar pond heron
+Necrosyrtes monachus_Hooded vulture
+Trigonoceps occipitalis_White-headed vulture
+Mycteria ibis_Yellow-billed stork
+Gypaetus barbatus_Bearded vulture
+Grus grus_Common Crane
+Afropapo congensis_Congo peafowl
+Ardeola idae_Madagascar pond heron
+Necrosyrtes monachus_Hooded vulture
+Trigonoceps occipitalis_White-headed vulture
+Mycteria ibis_Yellow-billed stork
+Gypaetus barbatus_Bearded vulture
+Nycticorax nycticorax_Black-crowned Night-Heron
+Oriental Magpie-Robin_Copsychus saularis
+Golden-billed saltator_Saltator aurantiirostris
+Asian Emerald Dove_Chalcophaps indica
+Red-legged Thrush_Turdus plumbeus
+Pelecanus rufescens_Pink-backed pelican
+Scarlet-breasted lorikeet_Trichoglossus forsteni
+Madagascar turtle-dove_Nesoenas picturatus
+Mount Omei babbler_Liocichla omeiensis
+Javan imperial pigeon_Ducula rosacea
+White-naped pheasant-pigeon_Otidiphaps aruensis

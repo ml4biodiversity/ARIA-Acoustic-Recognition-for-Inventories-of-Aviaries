@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Data (too large)
+data/raw/
+data/wav/
+data/segments/
+data/train_curated/
+data/test_curated/
+
+# Results
+results_inference_birdnet/
+prediction_summaries/
+*.csv
+!config/*.csv
+
+# Audio files
+*.wav
+*.mp3
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+models/*
+!models/*.py
+*.npz
+results_embeddings/
+results_meta_fallback/
+bad_mp3.list
+data/
+models_backup*/
+results/
+_archive/
+*.npy
+*.pth
+*.tflite
+*.xlsx
+*.bak*

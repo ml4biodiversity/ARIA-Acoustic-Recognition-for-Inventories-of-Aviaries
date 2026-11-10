@@ -1,0 +1,13 @@
+PERCH 2.0 Species Mapping Files
+============================================================
+
+Cache Location:
+/home/I6405975/.cache/kagglehub/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2/2/assets
+
+Files:
+- labels.csv: /home/I6405975/.cache/kagglehub/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2/2/assets/labels.csv
+- perch_v2_ebird_classes.csv: /home/I6405975/.cache/kagglehub/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2/2/assets/perch_v2_ebird_classes.csv
+
+Copied to working directory:
+- perch_v2_labels.csv
+- perch_v2_ebird_classes.csv
