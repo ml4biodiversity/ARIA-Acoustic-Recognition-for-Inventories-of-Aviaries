@@ -21,6 +21,10 @@ Examples:
       --cage-species aviary1=a1.txt aviary2=a2.txt \
       --cage-pattern aviary1=kittas aviary2=sept2026 --register-pattern
 
+  # add cages to an EXISTING zoo, other cages stay as they are
+  python3 scripts/add_zoo_config.py --zoo avifauna --merge --cages weavers \
+      --cage-species weavers=weavers.txt --cage-pattern weavers=village_weaver
+
 --cages: cage keys. The folder-name substring used for routing is the cage key
          itself (e.g. cage 'kittas' matches folders containing 'kittas'),
          unless you give --cage-pattern CAGE=TEXT. Order matters if one folder
@@ -73,6 +77,8 @@ def main():
                     help="existing zoo_patterns entry to insert after (default gaia_zoo_savannah)")
     ap.add_argument('--config', default=str(ARIA / 'config' / 'zoo_species_config.json'))
     ap.add_argument('--run-inference', default=str(ARIA / 'src' / 'inference' / 'run_inference.py'))
+    ap.add_argument('--merge', action='store_true',
+                    help='ADD the given cages to an EXISTING zoo; its other cages and species stay untouched')
     ap.add_argument('--overwrite', action='store_true',
                     help='replace an existing zoo block + folder_patterns entry (use to fix/redo)')
     ap.add_argument('--apply', action='store_true')
@@ -89,8 +95,10 @@ def main():
     cfg_path, ri_path = Path(a.config), Path(a.run_inference)
     cfg = json.load(open(cfg_path, encoding='utf-8'))
 
-    if a.zoo in cfg['zoos'] and not a.overwrite:
-        sys.exit(f'zoo "{a.zoo}" already exists - use --overwrite to replace it')
+    if a.merge and a.zoo not in cfg['zoos']:
+        sys.exit(f'--merge needs an existing zoo, "{a.zoo}" not in config')
+    if a.zoo in cfg['zoos'] and not (a.overwrite or a.merge):
+        sys.exit(f'zoo "{a.zoo}" already exists - use --merge to add cages, or --overwrite to replace it')
     if cage_files:
         missing = [c for c in a.cages if c not in cage_files]
         if missing:
@@ -115,8 +123,20 @@ def main():
         print(f'  cage {c:12s} routes on folder text "{cage_pat.get(c, c)}": {len(cage_lists[c])} species')
         for b in cage_lists[c]:
             print(f'      - {b}')
-    cfg['zoos'][a.zoo] = {'all_birds': birds, 'cages': cage_lists}
-    cfg.setdefault('folder_patterns', {})[a.zoo] = {'cages': {c: [cage_pat.get(c, c)] for c in a.cages}}
+    new_pat = {c: [cage_pat.get(c, c)] for c in a.cages}
+    if a.merge:
+        blk = cfg['zoos'][a.zoo]
+        print(f'MERGE into existing zoo "{a.zoo}": existing cages {list(blk.get("cages", {}))}')
+        for b in birds:
+            if b not in blk['all_birds']:
+                print(f'  note: "{b}" is new to this zoo, added to all_birds')
+                blk['all_birds'].append(b)
+        blk.setdefault('cages', {}).update(cage_lists)
+        fp = cfg.setdefault('folder_patterns', {}).setdefault(a.zoo, {}).setdefault('cages', {})
+        fp.update(new_pat)
+    else:
+        cfg['zoos'][a.zoo] = {'all_birds': birds, 'cages': cage_lists}
+        cfg.setdefault('folder_patterns', {})[a.zoo] = {'cages': new_pat}
 
     ri_text = ri_path.read_text(encoding='utf-8')
     new_ri = None

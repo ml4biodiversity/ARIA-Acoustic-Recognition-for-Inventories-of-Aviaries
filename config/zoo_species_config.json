@@ -238,7 +238,9 @@
         "African Golden Oriole",
         "Superb Starling",
         "Black-bellied Whistling-Duck",
-        "Brown Pelican"
+        "Brown Pelican",
+        "Village Weaver",
+        "Red-billed Blue-Magpie"
       ],
       "cages": {
         "flamingos": [
@@ -271,6 +273,12 @@
           "Inca Tern",
           "Scarlet Ibis",
           "Brown Pelican"
+        ],
+        "weavers": [
+          "Village Weaver"
+        ],
+        "blue_magpies": [
+          "Red-billed Blue-Magpie"
         ]
       }
     },
@@ -835,6 +843,16 @@
         ],
         "aviary2": [
           "sept2026"
+        ]
+      }
+    },
+    "avifauna": {
+      "cages": {
+        "weavers": [
+          "village_weaver"
+        ],
+        "blue_magpies": [
+          "blue_magpie"
         ]
       }
     }
